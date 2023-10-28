@@ -1,4 +1,4 @@
-# Lane Detection - Readme
+# Lane Detection
 
 ## Introduction
 Lane Detection is a computer vision project that identifies and highlights lanes on a road from images or video streams using classical image processing techniques. It is a critical component of autonomous vehicles and advanced driver assistance systems (ADAS). This README provides a brief overview of the Lane Detection project.
